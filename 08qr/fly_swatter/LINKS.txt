@@ -1,0 +1,10 @@
+Additional links:
+
+area of intersection between circle and rectangle
+http://stackoverflow.com/questions/622287/area-of-intersection-between-circle-and-rectangle
+
+What algorithm can I use to determine points within a semi-circle?
+http://stackoverflow.com/questions/534989/what-algorithm-can-i-use-to-determine-points-within-a-semi-circle/535059#535059
+
+Monte Carlo method
+http://en.wikipedia.org/wiki/Monte_Carlo_method
