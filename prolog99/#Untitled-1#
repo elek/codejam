@@ -1,0 +1,2 @@
+svn checkout http://caliper.googlecode.com/svn/trunk/ caliper-read-only
+

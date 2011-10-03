@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry sourcepath="/home/elek/.gradle/cache/junit/junit/sources/junit-4.9-sources.jar" kind="lib" path="/home/elek/.gradle/cache/junit/junit/jars/junit-4.9.jar" exported="true"/>
+	<classpathentry sourcepath="/home/elek/.gradle/cache/org.hamcrest/hamcrest-core/sources/hamcrest-core-1.1-sources.jar" kind="lib" path="/home/elek/.gradle/cache/org.hamcrest/hamcrest-core/jars/hamcrest-core-1.1.jar" exported="true"/>
+</classpath>
