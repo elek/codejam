@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python2
 
 
 class Number:
@@ -28,14 +28,10 @@ class Number:
 			val2 = (val2 - r)/pow
 		return ret
 
-file = 'A-large-practice.in'
-f = open(file)
-out = open(file + '.res','w+')
-num = int(f.readline())
+num = int(input())
 for i in range(num):
-   line = f.readline()
-   t = line.split(" ")
+   t = raw_input().split(" ")
    orig = Number(t[1])
    orig.parse(t[0])
-   out.write("Case #" + str(i+1) + ": " + Number(t[2].strip(),orig.value).format()+"\n")
+   print("Case #" + str(i+1) + ": " + Number(t[2].strip(),orig.value).format())
    

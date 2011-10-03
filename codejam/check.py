@@ -55,4 +55,4 @@ def processdir(dirname):
          
          
 if __name__ == '__main__':
-   processdir('practice')
+   processdir('practice/practice_problems')
